@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "MaxMinDashboard", "MaxMinDashboard\MaxMinDashboard.rptproj", "{73CB511B-E350-4969-AD1F-8A1B08BC5C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.Debug|Default.ActiveCfg = Debug
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.Debug|Default.Build.0 = Debug
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.Debug|Default.Deploy.0 = Debug
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.DebugLocal|Default.Build.0 = DebugLocal
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.Release|Default.ActiveCfg = Release
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.Release|Default.Build.0 = Release
+		{73CB511B-E350-4969-AD1F-8A1B08BC5C67}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5B1BD0-F948-47D4-90F0-970A7897D07B}
+	EndGlobalSection
+EndGlobal
